@@ -1,0 +1,14 @@
+<!-- 
+	/* 
+	 * voiceResponse.xml
+	 * @description: Handles the default voice mail that will be played when someone calls the
+	 * Twilio number.
+	 * @author: Bryant Son
+	 * This project was created during the Dallas AT&T Hackathon in September 14 - 15, 2013
+	 * at Plano, Texas. 
+	 */
+//-->
+<?xml version="1.0" encoding="UTF-8" ?>  
+<Response> 
+    <Say>Hello, this is Juvo service. This is an automated message notifying you that Graham Smith has been in an accident.</Say>
+</Response>
